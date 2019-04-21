@@ -1,0 +1,3 @@
+rootProject.name = 'deadmans_app_2519'
+
+include ':app'
